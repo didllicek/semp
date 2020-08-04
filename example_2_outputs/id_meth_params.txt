@@ -1,0 +1,7 @@
+p=5
+delta_t=1
+points=20
+alpha=6
+beta=6
+r=2
+m=2
